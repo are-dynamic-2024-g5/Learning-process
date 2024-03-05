@@ -17,6 +17,8 @@ Idée:
  La taille d'un groupe augmente forcement la vitesse à laquelle ils dessinent. Mais est ce qu'un groupe plus coordoné peut dessiner plus vite?
  
  les gens ont moins tendance à poser des pixels sur des endroits deja établis, comment le "mouvement" des gens influencent celui des autres?
+
+ 
  
 
  
