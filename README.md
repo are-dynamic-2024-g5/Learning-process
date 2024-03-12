@@ -22,8 +22,11 @@ Idée:
 
 Début du notebook. *Peut êre utiliser tkinter pour avoir une animation graphique de l'évolution du canvas* cf shelling.
 
+Implémentation de l'affichage du canvas et d'un agent qui pose un pixel aléatoirement.
 
- 
- 
+Problématique: Quand est ce que la coordination est plus efficace que le nombre d'individus?
 
+(Quels sont les paramètres qui permettent de vaincre une supériorité numérique)
+ 
+Site pour convertir des images en pixel art: https://www.pixelicious.xyz/
  
