@@ -20,7 +20,9 @@ Idée:
 
 ## 12/03/2024
 
-Début du notebook. *Peut êre utiliser tkinter pour avoir une animation graphique de l'évolution du canvas*
+Début du notebook. *Peut êre utiliser tkinter pour avoir une animation graphique de l'évolution du canvas* cf shelling.
+
+
  
  
 
