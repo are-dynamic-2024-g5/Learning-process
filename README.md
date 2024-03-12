@@ -18,6 +18,9 @@ Idée:
  
  les gens ont moins tendance à poser des pixels sur des endroits deja établis, comment le "mouvement" des gens influencent celui des autres?
 
+## 12/03/2024
+
+Début du notebook. *Peut êre utiliser tkinter pour avoir une animation graphique de l'évolution du canvas*
  
  
 
