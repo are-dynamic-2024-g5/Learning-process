@@ -29,4 +29,8 @@ Problématique: Quand est ce que la coordination est plus efficace que le nombre
 (Quels sont les paramètres qui permettent de vaincre une supériorité numérique)
  
 Site pour convertir des images en pixel art: https://www.pixelicious.xyz/
+
+## 16/03/2024
+
+time: https://docs.python.org/fr/3/library/time.html
  
