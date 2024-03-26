@@ -33,4 +33,9 @@ Site pour convertir des images en pixel art: https://www.pixelicious.xyz/
 ## 16/03/2024
 
 time: https://docs.python.org/fr/3/library/time.html
+
+##26/03/2024
+
+La foncfion ma affiche seulement une matrice avec 1 chiffre. Normalement il devrait avoir une part de 1 et 2 un peu équitable pour des groupes de meme taille.
+Une fois la fonction ma fini, il faut remplacer les randoms.
  
