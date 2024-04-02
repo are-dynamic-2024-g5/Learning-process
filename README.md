@@ -41,5 +41,6 @@ Une fois la fonction ma fini, il faut remplacer les randoms.
 
 ## 02/04/2024
 
-La fontion qui fait placer des pixels fontionne. youhou. La fontion coordonee a l'air de marcher. La fonction qui fait placer des pixels favorise le 2eme groupe. Des la fonction qui fait placer des pixels tourne longtemps.
+La fontion qui fait placer des pixels fontionne. youhou. La fontion coordonee a l'air de marcher. La fonction qui fait placer des pixels favorise le 2eme groupe. Des fois
+la fonction qui fait placer des pixels tourne longtemps.
  
