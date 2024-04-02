@@ -38,4 +38,8 @@ time: https://docs.python.org/fr/3/library/time.html
 
 La foncfion ma affiche seulement une matrice avec 1 chiffre. Normalement il devrait avoir une part de 1 et 2 un peu équitable pour des groupes de meme taille.
 Une fois la fonction ma fini, il faut remplacer les randoms.
+
+## 02/04/2024
+
+La fontion qui fait placer des pixels fontionne. youhou. La fontion coordonee a l'air de marcher. La fonction qui fait placer des pixels favorise le 2eme groupe. Des la fonction qui fait placer des pixels tourne longtemps.
  
