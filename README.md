@@ -46,14 +46,22 @@ la fonction qui fait placer des pixels tourne longtemps.
 
 ##23/04/2024
 
--Corriger les annotations dans la fontion simulation\n
--Retrouver la formule de nb_modif_par_heure\n
--Tracer les graphiques\n
--Tirer des conclusions des graphiques\n
--Ajouter des parametre\n
--Ajouter des couleurs\n
--Faire les slides\n
--Preparer la présentation\n
--Faire le site\n
+-Corriger les annotations dans la fontion simulation*
+
+-Retrouver la formule de nb_modif_par_heure
+
+-Tracer les graphiques
+
+-Tirer des conclusions des graphiques
+
+-Ajouter des parametre
+
+-Ajouter des couleurs
+
+-Faire les slides
+
+-Preparer la présentation
+
+-Faire le site
 
  
