@@ -44,7 +44,7 @@ Une fois la fonction ma fini, il faut remplacer les randoms.
 La fontion qui fait placer des pixels fontionne. youhou. La fontion coordonee a l'air de marcher. La fonction qui fait placer des pixels favorise le 2eme groupe. Des fois
 la fonction qui fait placer des pixels tourne longtemps.
 
-##23/04/2024
+## 23/04/2024
 
 -Corriger les annotations dans la fontion simulation*
 
