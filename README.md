@@ -46,7 +46,7 @@ la fonction qui fait placer des pixels tourne longtemps.
 
 ## 23/04/2024
 
--Corriger les annotations dans la fontion simulation*
+-Corriger les annotations dans la fontion simulation
 
 -Retrouver la formule de nb_modif_par_heure
 
