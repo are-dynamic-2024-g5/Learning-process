@@ -64,4 +64,8 @@ la fonction qui fait placer des pixels tourne longtemps.
 
 -Faire le site
 
+## 27/04/2024
+
+faire des gifs: https://kwamimayeden.com/creer-et-optimiser-un-gif-avec-python/
+
  
