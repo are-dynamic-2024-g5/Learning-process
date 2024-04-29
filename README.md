@@ -7,7 +7,9 @@ R/place est un projet social où les utilisateurs de Reddit pouvaient placer un 
 Timelapses des différrentes éditions de R/placer
 
 2017: https://www.youtube.com/watch?v=XnRCZK3KjUY
+
 2022: https://www.youtube.com/watch?v=K5O3UgLG2Jw
+
 2023: https://www.youtube.com/watch?v=xjOMPka5WFo
 
 Drapeau français sur le canvas en 2022: https://www.youtube.com/watch?v=vjx61CONYww
