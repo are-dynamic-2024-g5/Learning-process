@@ -98,4 +98,6 @@ Avoir un nombre de personnes par groupe qui varie aussi. La nuit par exemple il 
 
 Automatiser le process pour trouver la valeur optimal d'une variables quand toutes les autres sont fixés.
 
+Les groupes pourraient avoir des stratégies sur quel pixels placaient en premier.
+
 
