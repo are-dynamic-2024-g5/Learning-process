@@ -14,6 +14,8 @@ R/place est un projet social où les utilisateurs de Reddit pouvaient placer un 
 
 Drapeau français sur le canvas en 2022: https://www.youtube.com/watch?v=vjx61CONYww
 
+Chart de l'organisation de l'Allemagne sur R/place: https://www.reddit.com/r/Damnthatsinteresting/comments/txbbne/german_created_a_workflow_chart_for_their_rplace/
+
 Mais il n'y a pas que des guerres de communautés sur R/place mais également des communautés qui font de jolies chose:
 
 Par exemple:
