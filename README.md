@@ -81,6 +81,6 @@ Les groupes pourraient faire de vrais dessins, avoir différentes couleur.
 
 Avoir un nombre de personnes par groupe qui varie aussi. La nuit par exemple il y a moins de personnes.
 
-Cependant le groupe 1 a 90% de chance de poser un bon pixel, ce qui est beaucoup. Est-ce-qu'avec un correct chance plus bas, il l'emporte tout de même? Trouver un correct_chance optimal. C'est possible de le trouver on se fixant toutes les variables sauf correct_chances du groupe qu'on fait varier avec un pas de 0.1, et on prend la valeur la plus petite de correct_chances pour laquelle le groupe 1 l'emporte tout de même.
+Le groupe 1 a 90% de chance de poser un bon pixel, ce qui est beaucoup. Est-ce-qu'avec un correct chance plus bas, il l'emporte tout de même? Trouver un correct_chance optimal. C'est possible de le trouver on se fixant toutes les variables sauf correct_chances du groupe qu'on fait varier avec un pas de 0.1, et on prend la valeur la plus petite de correct_chances pour laquelle le groupe 1 l'emporte tout de même.
 
 
