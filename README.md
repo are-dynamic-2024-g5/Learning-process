@@ -51,8 +51,17 @@ Pour notre simulation le groupe 1 aura 50 agents, un temps moyen entre chaque pi
 
 Après avoir lancer la simulation on trouve:
 
-<img width="425" alt="image" src="https://github.com/are-dynamic-2024-g5/Rplace/assets/159923584/72f04e94-633a-4d40-a506-bc3c88dbedbf">
-![rplace](https://github.com/are-dynamic-2024-g5/Rplace/assets/159923584/1623e351-44e8-4775-a9bc-1c9b6084767f)
+Courbe du taux de completion en fontion du temps pour le groupe 1 et le groupe 2:
+
+![output](https://github.com/are-dynamic-2024-g5/Rplace/assets/159923584/a53bf6fe-9d0e-4f8a-81be-77e2f981ec15)
+
+Gifs de la simulation:
+
+![gif](https://github.com/are-dynamic-2024-g5/Rplace/assets/159923584/239a5ff0-0c0f-44c8-aaf9-53483856f966)
+
+Le canvas à la fin de la simulation:
+
+![23](https://github.com/are-dynamic-2024-g5/Rplace/assets/159923584/d54429c2-a67c-4557-9821-d68457a56458)
 
 
 On voit que malgré leur inférioté numérique groupe 1 l'emporte largement sur le groupe 2. Le groupe 1 complete le canvas a 17.5% alors que le groupe 2 le complete a seuleument 4%. Donc il est possible de l'emporter face à un groupe avec un avantage numérique.
