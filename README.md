@@ -36,8 +36,13 @@ Pour notre simulation, chaque groupe est caractérisé par 4 paramètres: le nom
 
 Il est évident que le nombre de personnes dans un groupe influe sur leur capacité à dessiner ou non. Le temps entre chaque pixel représente si un individu place un pixel dès qu'il peut le faire ou alors ne fais pas vraiment attention et place un pixel un peu quand il en a envie.
 
-Sur une toile vide il est compliqué de coordonées un groupe très grand. Il est compliqué de de poser un pixel à l'endroit exact. Pour palier à ça, certaines communautées ont crées des scripts qui affiche à l'écran l'endroit exact où il faut poser un pixel. Cela permet de réduire les chances de placer un pixel au mauvais endroits. Il y a beaucoup d'autre manière d'augmenter ses chances de ne pas poser de mauvais pixel comme par exemple raffréchir la page avant de poser un pixel.
+Sur une toile vide il est compliqué de coordonées un groupe très grand. Il est compliqué de de poser un pixel à l'endroit exact. Pour palier à ça, certaines communautées ont crées des scripts qui affiche à l'écran l'endroit exact où il faut poser un pixel. Cela permet de réduire les chances de placer un pixel au mauvais endroits.
 
-On notera que les communauté osu et touhou avaient des graphes et des scripts qui s'updataient en temps réel:https://www.reddit.com/r/place/comments/156zpm4/for_the_people_accusing_bad_apple_of_using_bots/
+<img width="540" alt="image" src="https://github.com/are-dynamic-2024-g5/Rplace/assets/159923584/daff7b0d-e73f-44ec-840d-9d916eb1327d">
+<img width="332" alt="image" src="https://github.com/are-dynamic-2024-g5/Rplace/assets/159923584/bb18024d-fb84-447c-b1d1-b9cbb3b43c69">
+
+Il y a beaucoup d'autre manière d'augmenter ses chances de ne pas poser de mauvais pixel comme par exemple raffréchir la page avant de poser un pixel.
+
+On notera que les communautés osu et touhou avaient des graphes et des scripts qui s'updataient en temps réel:https://www.reddit.com/r/place/comments/156zpm4/for_the_people_accusing_bad_apple_of_using_bots/
 
 
