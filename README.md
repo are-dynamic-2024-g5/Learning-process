@@ -52,6 +52,14 @@ Pour notre simulation le groupe 1 aura 50 agents, un temps moyen entre chaque pi
 Après avoir lancer la simulation on trouve:
 
 ![output](https://github.com/are-dynamic-2024-g5/Rplace/assets/159923584/34f2b066-a95d-4ce3-b246-771f59bca410)
+![Vidéo-sans-titre-‐-Réalisée-avec-Clipchamp-_5_](https://github.com/are-dynamic-2024-g5/Rplace/assets/159923584/1d46e832-bdac-4aee-92ce-27ae518055ee)
 
-![rplace](https://github.com/are-dynamic-2024-g5/Rplace/assets/159923584/64d170df-180f-4c7c-b21e-9e646591dc61)
+On voit que malgré leur inférioté numérique groupe 1 l'emporte largement sur le groupe 2.
+
+Cependant le groupe 1 a 90% de chance de poser un bon pixel, ce qui est beaucoup. Est-ce-qu'avec un correct chance plus bas, il l'emporte tout de même?
+
+# Correct chance optimal:
+
+On va fixer toutes les variables sauf correct_chance du groupe 1 qu'on va faire varier avec un pas de 0.1 pour trouver la valeur de correct chance optimal.
+
 
