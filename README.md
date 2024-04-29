@@ -19,6 +19,7 @@ Mais il n'y a pas que des guerres de communautés sur R/place mais également de
 Par exemple:
 
 Une reproduction de _La Ronde de nuit_ par Rembrandt 
+
 <img width="319" alt="image" src="https://github.com/are-dynamic-2024-g5/Rplace/assets/159923584/e6fdfcce-9d20-4d42-be19-802b47733f95">
 
 
