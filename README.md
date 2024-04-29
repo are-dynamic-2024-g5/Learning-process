@@ -22,5 +22,9 @@ Une reproduction de _La Ronde de nuit_ par Rembrandt
 
 <img width="319" alt="image" src="https://github.com/are-dynamic-2024-g5/Rplace/assets/159923584/e6fdfcce-9d20-4d42-be19-802b47733f95">
 
+Il y a même des animations qui sont faites:
 
+Une reproduction du clip musical Bad Apple: https://www.youtube.com/watch?v=21wfYqPUf-s
+
+Une reproduction de la boucle de gameplay du jeux Outer Wilds, on se reveille près d'un feu de camp, on explore, une étoile explose, retour dans le temps et on se reveille près de notre feu de camp: https://www.reddit.com/r/place/comments/15a7li0/routerwilds_animation_sound_collab_timelapse_a/
 
