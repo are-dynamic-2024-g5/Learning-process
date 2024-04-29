@@ -54,12 +54,20 @@ Après avoir lancer la simulation on trouve:
 ![output](https://github.com/are-dynamic-2024-g5/Rplace/assets/159923584/34f2b066-a95d-4ce3-b246-771f59bca410)
 ![Vidéo-sans-titre-‐-Réalisée-avec-Clipchamp-_5_](https://github.com/are-dynamic-2024-g5/Rplace/assets/159923584/1d46e832-bdac-4aee-92ce-27ae518055ee)
 
-On voit que malgré leur inférioté numérique groupe 1 l'emporte largement sur le groupe 2. Le groupe 1 complete le canvas a 17.5% alors que le groupe 2 le complete a seuleument 4%.
+On voit que malgré leur inférioté numérique groupe 1 l'emporte largement sur le groupe 2. Le groupe 1 complete le canvas a 17.5% alors que le groupe 2 le complete a seuleument 4%. Donc il est possible de l'emporter face à un groupe avec un avantage numérique.
 
 Cependant le groupe 1 a 90% de chance de poser un bon pixel, ce qui est beaucoup. Est-ce-qu'avec un correct chance plus bas, il l'emporte tout de même?
 
 # Correct chance optimal:
 
 On va fixer toutes les variables sauf correct_chance du groupe 1 qu'on va faire varier avec un pas de 0.1 pour trouver la valeur de correct chance optimal.
+
+# Extention possibles:
+
+Ce qui est considéré comme un placer un mauvais pixel: 1) Trouver un pixel qui est déjà de la bonne couleur 2) Le colorier en blanc. Ceci fausse un peu la simulation cependant il est impossible de faire mieux lorqu'un groupe peut placer seuleument une couleur car prendre un pixel blanc et le colorier de la couleur du groupe revient à la colorier de la bonne couleur.
+
+Les groupes pourraient faire de vrais dessins, avoir différentes couleur.
+
+Avoir un nombre de personnes par groupe qui varie aussi. La nuit par exemple il y a moins de personnes.
 
 
