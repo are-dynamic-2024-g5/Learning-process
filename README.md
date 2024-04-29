@@ -1,71 +1,13 @@
-# R/place
+## Comment poser des pixels de façcon optimal.
 
-## 05/03/2024
+#Qu'est ce que R/place:
 
-https://www.ijee.ie/articles/999995/article.htm
+R/place est un projet social où les utilisateurs de Reddit pouvaient placer un pixel de couleur sur une toile virtuelle toutes les cinq minutes. L'objectif était de collaborer avec d'autres utilisateurs pour créer des images ou des motifs sur cette toile. Cependant, étant donné que la toile était ouverte à tous et que chaque pixel était modifiable, cela a souvent conduit à des guerres de pixels où les utilisateurs s'affrontaient pour défendre ou modifier certaines parties de l'image. On pourrait citer la "guerre" entre la france et le reste du monde pendant l'édition 2022 de R/place.
 
-https://uwspace.uwaterloo.ca/bitstream/handle/10012/14060/Armstrong_Ben.pdf
+Timelapses des différrentes éditions de R/placer
 
-https://arxiv.org/pdf/2206.03563v2.pdf
+2017: https://www.youtube.com/watch?v=XnRCZK3KjUY
+2022: https://www.youtube.com/watch?v=K5O3UgLG2Jw
+2023: https://www.youtube.com/watch?v=xjOMPka5WFo
 
-Trouvez un angle/problematique/sujet.
-
-Idée:
-
-  Façon optimal de poser des pixels pour aboutir à une image donnée et la maintenir le plus efficacement possible(tous poser en meme temps? groupe par groupe? faire s'affronter deux groupes pour tirer des conclusions? comment se protéger d'attaques d'autres groupes voulant étendre leur image?, ) 
-  
- La taille d'un groupe augmente forcement la vitesse à laquelle ils dessinent. Mais est ce qu'un groupe plus coordoné peut dessiner plus vite?
- 
- les gens ont moins tendance à poser des pixels sur des endroits deja établis, comment le "mouvement" des gens influencent celui des autres?
-
-## 12/03/2024
-
-Début du notebook. *Peut êre utiliser tkinter pour avoir une animation graphique de l'évolution du canvas* cf shelling.
-
-Implémentation de l'affichage du canvas et d'un agent qui pose un pixel aléatoirement.
-
-Problématique: Quand est ce que la coordination est plus efficace que le nombre d'individus?
-
-(Quels sont les paramètres qui permettent de vaincre une supériorité numérique)
- 
-Site pour convertir des images en pixel art: https://www.pixelicious.xyz/
-
-## 16/03/2024
-
-time: https://docs.python.org/fr/3/library/time.html
-
-## 26/03/2024
-
-La foncfion ma affiche seulement une matrice avec 1 chiffre. Normalement il devrait avoir une part de 1 et 2 un peu équitable pour des groupes de meme taille.
-Une fois la fonction ma fini, il faut remplacer les randoms.
-
-## 02/04/2024
-
-La fontion qui fait placer des pixels fontionne. youhou. La fontion coordonee a l'air de marcher. La fonction qui fait placer des pixels favorise le 2eme groupe. Des fois
-la fonction qui fait placer des pixels tourne longtemps.
-
-## 23/04/2024
-
--Corriger les annotations dans la fontion simulation
-
--Retrouver la formule de nb_modif_par_heure
-
--Tracer les graphiques
-
--Tirer des conclusions des graphiques
-
--Ajouter des parametre
-
--Ajouter des couleurs
-
--Faire les slides
-
--Preparer la présentation
-
--Faire le site
-
-## 27/04/2024
-
-faire des gifs: https://kwamimayeden.com/creer-et-optimiser-un-gif-avec-python/
-
- 
+Drapeau français sur le canvas en 2022: https://www.youtube.com/watch?v=vjx61CONYww
