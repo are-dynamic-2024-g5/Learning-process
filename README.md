@@ -28,7 +28,7 @@ Une reproduction du clip musical Bad Apple: https://www.youtube.com/watch?v=21wf
 
 Une reproduction de la boucle de gameplay du jeux Outer Wilds, on se reveille près d'un feu de camp, on explore, une étoile explose, retour dans le temps et on se reveille près de notre feu de camp: https://www.reddit.com/r/place/comments/15a7li0/routerwilds_animation_sound_collab_timelapse_a/
 
-Maintenant on pourrait se dire que contre un groupe ayant 10 fois plus de membres il est impossible de gagner. Mais est ce vraiment le cas?
+Maintenant on pourrait se dire que contre un groupe ayant 2 fois plus de membres il est impossible de gagner. Mais est ce vraiment le cas?
 
 # Peut on gagner face à un groupe avec un avantage numérique?:
 
@@ -45,7 +45,17 @@ Il y a beaucoup d'autre manière d'augmenter ses chances de ne pas poser de mauv
 
 On notera que les communautés osu et touhou avaient des graphes et des scripts qui s'updataient en temps réel: https://www.reddit.com/r/place/comments/156zpm4/for_the_people_accusing_bad_apple_of_using_bots/
 
-Pour notre simulation le groupe 1 aura 50 agents, un temps moyen entre chaque pixel de 5 minutes, 90% de chances de poser un pixel correct et posera des pixels rouges. Le groupe 2 aura 500 agents, un temps moyen entre chaque pixel de 8 minutes, 50% chances de poser un bon pixel et posera des pixels verts. Donc on va faire affronter un groupe composé de 50 personnes très organisé contre un groupe dix fois plus nombreux mais moins organisé. L'objectif de chaque groupe est de remplir entièrement le canvas avec leur couleur.
+Pour notre simulation le groupe 1 aura 100 agents, un temps moyen entre chaque pixel de 5 minutes, 90% de chances de poser un pixel correct et posera des pixels rouges. Le groupe 2 aura 200 agents, un temps moyen entre chaque pixel de 7 minutes, 50% chances de poser un bon pixel et posera des pixels verts. Donc on va faire affronter un groupe composé de 100 personnes très organisé contre un groupe 2 fois plus nombreux mais moins organisé. L'objectif de chaque groupe est de remplir entièrement le canvas avec leur couleur.
+
+# Fontionement de la simulation:
+
+Il y a un dictionnnaire qui a un str associé une liste.
+
+<img width="623" alt="image" src="https://github.com/are-dynamic-2024-g5/Rplace/assets/159923584/121b6a91-4c39-4b07-bdca-169e58ecd791">
+
+IL y a des fontions qui renvoie un pixel et met à jour le dictionnaire.
+
+Et la fontion pour simuler fait appel aux deux fontion précédentes. D'abord il prend un float compris entre 0 et 1 et le compare à correct_chance, si le float choisis est inférieur à correct_chance on place un bon pixel sinon on place un mauvais pixel. Pour les mauvais pixels, on a décidé de le repeindre de la meme couleur qu'elle était avant pour que la personne "gaspille" son pixel.
 
 # Résultat:
 
@@ -61,16 +71,9 @@ Gifs de la simulation:
 
 Le canvas à la fin de la simulation:
 
-![23](https://github.com/are-dynamic-2024-g5/Rplace/assets/159923584/d54429c2-a67c-4557-9821-d68457a56458)
+<img width="149" alt="image" src="https://github.com/are-dynamic-2024-g5/Rplace/assets/159923584/a593c811-d5b2-499a-acab-9567f23cb0a1">
 
-
-On voit que malgré leur inférioté numérique groupe 1 l'emporte largement sur le groupe 2. Le groupe 1 complete le canvas a 17.5% alors que le groupe 2 le complete a seuleument 4%. Donc il est possible de l'emporter face à un groupe avec un avantage numérique.
-
-Cependant le groupe 1 a 90% de chance de poser un bon pixel, ce qui est beaucoup. Est-ce-qu'avec un correct chance plus bas, il l'emporte tout de même?
-
-# Correct chance optimal:
-
-On va fixer toutes les variables sauf correct_chance du groupe 1 qu'on va faire varier avec un pas de 0.1 pour trouver la valeur de correct chance optimal.
+On voit que malgré leur inférioté numérique groupe 1 l'emporte largement sur le groupe 2. Donc il est possible de l'emporter face à un groupe avec un avantage numérique.
 
 # Extention possibles:
 
@@ -79,5 +82,7 @@ Ce qui est considéré comme un placer un mauvais pixel: 1) Trouver un pixel qui
 Les groupes pourraient faire de vrais dessins, avoir différentes couleur.
 
 Avoir un nombre de personnes par groupe qui varie aussi. La nuit par exemple il y a moins de personnes.
+
+Cependant le groupe 1 a 90% de chance de poser un bon pixel, ce qui est beaucoup. Est-ce-qu'avec un correct chance plus bas, il l'emporte tout de même? Trouver un correct_chance optimal.
 
 
