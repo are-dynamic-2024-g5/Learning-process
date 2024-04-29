@@ -77,12 +77,25 @@ Le canvas à la fin de la simulation:
 
 On voit que malgré leur inférioté numérique groupe 1 l'emporte largement sur le groupe 2. Donc il est possible de l'emporter face à un groupe avec un avantage numérique.
 
+# Correct chance optimal:
+
+Le groupe 1 a 90% de chance de poser un bon pixel, ce qui est beaucoup. Est-ce-qu'avec un correct chance plus bas, il l'emporte tout de même? Pour répondre à cette question, on se fixant toutes les variables sauf correct_chances du groupe qu'on fait varier avec un pas de 0.1, et on prend la valeur la plus petite de correct_chances pour laquelle le groupe 1 l'emporte tout de même. En tâtonant on trouve:
+
+Pour correct_chance_g1 = 0.7:
+
+![output](https://github.com/are-dynamic-2024-g5/Rplace/assets/159923584/a312865a-a2a5-421a-a239-160c102e4d4f)
+
+Pour correct_chance_g1 = 0.8:
+
+![0 8](https://github.com/are-dynamic-2024-g5/Rplace/assets/159923584/c76538cb-6946-4815-8262-a7455f618007)
+
+Il n'est donc pas nécessaire d'avoir 90% chances de poser un bon pixel contre un groupe deux fois plus nombreux, 80% suffit.
 # Extention possibles:
 
 Les groupes pourraient faire de vrais dessins, avoir différentes couleur.
 
 Avoir un nombre de personnes par groupe qui varie aussi. La nuit par exemple il y a moins de personnes.
 
-Le groupe 1 a 90% de chance de poser un bon pixel, ce qui est beaucoup. Est-ce-qu'avec un correct chance plus bas, il l'emporte tout de même? Trouver un correct_chance optimal. C'est possible de le trouver on se fixant toutes les variables sauf correct_chances du groupe qu'on fait varier avec un pas de 0.1, et on prend la valeur la plus petite de correct_chances pour laquelle le groupe 1 l'emporte tout de même.
+Automatiser le process pour trouver la valeur optimal d'une variables quand toutes les autres sont fixés.
 
 
