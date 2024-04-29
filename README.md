@@ -30,7 +30,7 @@ Une reproduction de la boucle de gameplay du jeux Outer Wilds, on se reveille pr
 
 Maintenant on pourrait se dire que contre un groupe ayant 10 fois plus de membres il est impossible de gagner. Mais est ce vraiment le cas?
 
-# Peut on gagner face à un groupe avec avantage numérique?:
+# Peut on gagner face à un groupe avec un avantage numérique?:
 
 Pour notre simulation, chaque groupe est caractérisé par 4 paramètres: le nombre de personnes dans le groupe, le temps entre chaque pixel moyen, un pourcentage de chance de placer un bon pixel et une couleur.
 
@@ -43,10 +43,15 @@ Sur une toile vide il est compliqué de coordonées un groupe très grand. Il es
 
 Il y a beaucoup d'autre manière d'augmenter ses chances de ne pas poser de mauvais pixel comme par exemple raffraichir la page avant de poser un pixel.
 
-On notera que les communautés osu et touhou avaient des graphes et des scripts qui s'updataient en temps réel:https://www.reddit.com/r/place/comments/156zpm4/for_the_people_accusing_bad_apple_of_using_bots/
+On notera que les communautés osu et touhou avaient des graphes et des scripts qui s'updataient en temps réel: https://www.reddit.com/r/place/comments/156zpm4/for_the_people_accusing_bad_apple_of_using_bots/
 
 Pour notre simulation le groupe 1 aura 50 agents, un temps moyen entre chaque pixel de 5 minutes, 90% de chances de poser un pixel correct et posera des pixels rouges. Le groupe 2 aura 500 agents, un temps moyen entre chaque pixel de 8 minutes, 50% chances de poser un bon pixel et posera des pixels verts. Donc on va faire affronter un groupe composé de 50 personnes très organisé contre un groupe dix fois plus nombreux mais moins organisé.
 
+# Résultat:
 
+Après avoir lancer la simulation on trouve:
 
+![output](https://github.com/are-dynamic-2024-g5/Rplace/assets/159923584/34f2b066-a95d-4ce3-b246-771f59bca410)
+
+![rplace](https://github.com/are-dynamic-2024-g5/Rplace/assets/159923584/64d170df-180f-4c7c-b21e-9e646591dc61)
 
