@@ -19,6 +19,7 @@ Mais il n'y a pas que des guerres de communautés sur R/place mais également de
 Par exemple:
 
 Une reproduction de _La Ronde de nuit_ par Rembrandt 
-![La-ronde-de-nuit-_-Le-chef-doeuvre-de-Rembrandt-1-1024x576](https://github.com/are-dynamic-2024-g5/Rplace/assets/159923584/932beb17-0668-46c2-8fea-f73c746e7eef)
+<img width="319" alt="image" src="https://github.com/are-dynamic-2024-g5/Rplace/assets/159923584/e6fdfcce-9d20-4d42-be19-802b47733f95">
+
 
 
