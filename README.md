@@ -1,4 +1,4 @@
-## Comment poser des pixels de façcon optimal.
+## Comment poser des pixels de façon optimal.
 
 # Qu'est ce que R/place:
 
@@ -30,7 +30,14 @@ Une reproduction de la boucle de gameplay du jeux Outer Wilds, on se reveille pr
 
 Maintenant on pourrait se dire que contre un groupe ayant 10 fois plus de membres il est impossible de gagner. Mais est ce vraiment le cas?
 
-# Peut on gagner face à un groupe avec avantage numérique:
+# Peut on gagner face à un groupe avec avantage numérique?:
 
+Pour notre simulation, chaque groupe est caractérisé par 4 paramètres: le nombre de personnes dans le groupe, le temps entre chaque pixel moyen, un pourcentage de chance de placer un bon pixel et une couleur.
+
+Il est évident que le nombre de personnes dans un groupe influe sur leur capacité à dessiner ou non. Le temps entre chaque pixel représente si un individu place un pixel dès qu'il peut le faire ou alors ne fais pas vraiment attention et place un pixel un peu quand il en a envie.
+
+Sur une toile vide il est compliqué de coordonées un groupe très grand. Il est compliqué de de poser un pixel à l'endroit exact. Pour palier à ça, certaines communautées ont crées des scripts qui affiche à l'écran l'endroit exact où il faut poser un pixel. Cela permet de réduire les chances de placer un pixel au mauvais endroits. Il y a beaucoup d'autre manière d'augmenter ses chances de ne pas poser de mauvais pixel comme par exemple raffréchir la page avant de poser un pixel.
+
+On notera que la communauté osu et touhou avaient des graphes et des scripts qui s'updataient en temps réel:https://www.reddit.com/r/place/comments/156zpm4/for_the_people_accusing_bad_apple_of_using_bots/
 
 
