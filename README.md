@@ -1,6 +1,6 @@
 ## Comment poser des pixels de façcon optimal.
 
-#Qu'est ce que R/place:
+# Qu'est ce que R/place:
 
 R/place est un projet social où les utilisateurs de Reddit pouvaient placer un pixel de couleur sur une toile virtuelle toutes les cinq minutes. L'objectif était de collaborer avec d'autres utilisateurs pour créer des images ou des motifs sur cette toile. Cependant, étant donné que la toile était ouverte à tous et que chaque pixel était modifiable, cela a souvent conduit à des guerres de pixels où les utilisateurs s'affrontaient pour défendre ou modifier certaines parties de l'image. On pourrait citer la "guerre" entre la france et le reste du monde pendant l'édition 2022 de R/place.
 
@@ -27,4 +27,10 @@ Il y a même des animations qui sont faites:
 Une reproduction du clip musical Bad Apple: https://www.youtube.com/watch?v=21wfYqPUf-s
 
 Une reproduction de la boucle de gameplay du jeux Outer Wilds, on se reveille près d'un feu de camp, on explore, une étoile explose, retour dans le temps et on se reveille près de notre feu de camp: https://www.reddit.com/r/place/comments/15a7li0/routerwilds_animation_sound_collab_timelapse_a/
+
+Maintenant on pourrait se dire que contre un groupe ayant 10 fois plus de membres il est impossible de gagner. Mais est ce vraiment le cas?
+
+# Peut on gagner face à un groupe avec avantage numérique:
+
+
 
