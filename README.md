@@ -61,7 +61,7 @@ Et la fontion pour simuler fait appel aux deux fontion précédentes. D'abord il
 
 Après avoir lancer la simulation on trouve:
 
-Courbe du taux de completion en fontion du temps pour le groupe 1 et le groupe 2:
+Courbes du taux de completion en fontion du temps pour le groupe 1 et le groupe 2:
 
 ![output](https://github.com/are-dynamic-2024-g5/Rplace/assets/159923584/a53bf6fe-9d0e-4f8a-81be-77e2f981ec15)
 
