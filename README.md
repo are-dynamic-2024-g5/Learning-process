@@ -53,7 +53,7 @@ Il y a un dictionnnaire qui a un str associé une liste.
 
 <img width="623" alt="image" src="https://github.com/are-dynamic-2024-g5/Rplace/assets/159923584/121b6a91-4c39-4b07-bdca-169e58ecd791">
 
-IL y a des fontions qui renvoie un pixel et met à jour le dictionnaire.
+Il y a des fontions qui renvoie un pixel et mettent à jour le dictionnaire.
 
 Et la fontion pour simuler fait appel aux deux fontion précédentes. D'abord il prend un float compris entre 0 et 1 et le compare à correct_chance, si le float choisis est inférieur à correct_chance on place un bon pixel sinon on place un mauvais pixel. Pour les mauvais pixels, on a décidé de le repeindre de la meme couleur qu'elle était avant pour que la personne "gaspille" son pixel.
 
