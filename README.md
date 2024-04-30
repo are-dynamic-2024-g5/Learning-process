@@ -63,9 +63,9 @@ Et la fontion pour simuler fait appel aux deux fontion précédentes. D'abord il
 
 # Résultat:
 
-Après avoir lancer la simulation on trouve:
+Après avoir lancé la simulation on trouve:
 
-Courbes du taux de completion en fontion du temps pour le groupe 1 et le groupe 2:
+Les courbes du taux de complétion en fontion du temps pour le groupe 1 et le groupe 2:
 
 ![output](https://github.com/are-dynamic-2024-g5/Rplace/assets/159923584/a53bf6fe-9d0e-4f8a-81be-77e2f981ec15)
 
@@ -77,11 +77,11 @@ Le canvas à la fin de la simulation:
 
 <img width="149" alt="image" src="https://github.com/are-dynamic-2024-g5/Rplace/assets/159923584/a593c811-d5b2-499a-acab-9567f23cb0a1">
 
-On voit que malgré leur inférioté numérique groupe 1 l'emporte largement sur le groupe 2. Donc il est possible de l'emporter face à un groupe avec un avantage numérique.
+On voit que malgré leur inférioté numérique le groupe 1 l'emporte largement sur le groupe 2. Il est donc possible de l'emporter face à un groupe avec un avantage numérique.
 
 # Correct chance optimal:
 
-Le groupe 1 a 90% de chance de poser un bon pixel, ce qui est beaucoup. Est-ce-qu'avec un correct chance plus bas, il l'emporte tout de même? Pour répondre à cette question, on se fixant toutes les variables sauf correct_chances du groupe qu'on fait varier avec un pas de 0.1, et on prend la valeur la plus petite de correct_chances pour laquelle le groupe 1 l'emporte tout de même. En tâtonant on trouve:
+Le groupe 1 a 90% de chance de poser un bon pixel, ce qui est beaucoup et peu réaliste. Est-ce-qu'avec un correct chance plus bas, il l'emporte tout de même? Pour répondre à cette question, on fixe toutes les variables du groupe sauf correct_chance qu'on fait varier avec un pas de 0.1, et on prend la valeur la plus petite de correct_chance pour laquelle le groupe 1 l'emporte tout de même. En tâtonant on trouve:
 
 Pour correct_chance_g1 = 0.7:
 
@@ -92,14 +92,25 @@ Pour correct_chance_g1 = 0.8:
 ![0 8](https://github.com/are-dynamic-2024-g5/Rplace/assets/159923584/c76538cb-6946-4815-8262-a7455f618007)
 
 Il n'est donc pas nécessaire d'avoir 90% chances de poser un bon pixel contre un groupe deux fois plus nombreux, 80% suffit.
+
+# A partir de combien de personnes le groupe 2 gagne?:
+
+Pour un groupe 2 avec 200 personnes:
+
+<img width="152" alt="image" src="https://github.com/are-dynamic-2024-g5/Rplace/assets/159923584/bb2607b9-5f29-40fb-827a-2d8c6bfe84a6">
+
+Pour un groupe 2 avec 300 personnes:
+<img width="152" alt="image" src="https://github.com/are-dynamic-2024-g5/Rplace/assets/159923584/071a61b9-50d4-490c-835e-5bde9ad8db2d">
+
+Donc un groupe très bien organisé ne peut rien faire face a un groupe 3 fois plus nombreux.
 # Extention possibles:
 
-Les groupes pourraient faire de vrais dessins, avoir différentes couleur.
+Les groupes pourraient faire de vrais dessins, avoir différentes couleurs.
 
-Avoir un nombre de personnes par groupe qui varie aussi. La nuit par exemple il y a moins de personnes.
+On pourrait avoir un nombre de personnes par groupe qui varie aussi. La nuit par exemple il y a moins de personnes.
 
-Automatiser le process pour trouver la valeur optimal d'une variables quand toutes les autres sont fixés.
+Automatiser le processus pour trouver la valeur optimale d'une variable quand toutes les autres sont fixées.
 
-Les groupes pourraient avoir des stratégies sur quel pixels placaient en premier.
+Les groupes pourraient avoir des stratégies sur quel pixels placer en premier.
 
 
