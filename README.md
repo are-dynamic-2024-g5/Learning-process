@@ -40,14 +40,14 @@ Pour cela, chaque groupe est caractérisé par 4 paramètres: le nombre de perso
 
 Il est évident que le nombre de personnes dans un groupe influe sur sa capacité à dessiner efficacement et rapidement ou non. Le temps entre chaque pixel représente si un individu place un pixel dès qu'il peut le faire ou alors ne fais pas vraiment attention et place un pixel un peu quand il en a envie.
 
-Sur une toile vide il est compliqué de coordonéer un groupe très grand. Il est compliqué de de poser un pixel à l'endroit exact. Pour palier à ça, certaines communautées ont crées des scripts qui affiche à l'écran l'endroit exact où il faut poser un pixel. Cela permet de réduire les chances de placer un pixel au mauvais endroit.
+Sur une toile vide il est compliqué de coordonéer un groupe très grand. Il est compliqué de de poser un pixel à l'endroit exact. Pour palier à ça, certaines communautées ont crées des calques qui affiche à l'écran l'endroit exact où il faut poser un pixel. Cela permet de réduire les chances de placer un pixel au mauvais endroit.
 
 <img width="540" alt="image" src="https://github.com/are-dynamic-2024-g5/Rplace/assets/159923584/daff7b0d-e73f-44ec-840d-9d916eb1327d">
 <img width="332" alt="image" src="https://github.com/are-dynamic-2024-g5/Rplace/assets/159923584/bb18024d-fb84-447c-b1d1-b9cbb3b43c69">
 
 Il y a beaucoup d'autre manière d'augmenter ses chances de ne pas poser de mauvais pixel comme par exemple raffraichir la page avant de poser un pixel.
 
-On notera que les communautés Osu! et Touhou avaient des graphes et des scripts qui s'updataient en temps réel: https://www.reddit.com/r/place/comments/156zpm4/for_the_people_accusing_bad_apple_of_using_bots/
+On notera que les communautés Osu! et Touhou avaient des graphes et des calques qui s'updataient en temps réel: https://www.reddit.com/r/place/comments/156zpm4/for_the_people_accusing_bad_apple_of_using_bots/
 
 Pour notre simulation le groupe 1 aura 100 agents, un temps moyen entre chaque pixel de 5 minutes, 90% de chances de poser un pixel correct et posera des pixels rouges. Le groupe 2 aura 200 agents, un temps moyen entre chaque pixel de 7 minutes, 50% chances de poser un bon pixel et posera des pixels verts. Donc on va faire affronter un groupe composé de 100 personnes très organisé contre un groupe 2 fois plus nombreux mais moins organisé. L'objectif de chaque groupe est de remplir entièrement le canvas de leur couleur.
 
@@ -95,7 +95,7 @@ Il n'est donc pas nécessaire d'avoir 90% chances de poser un bon pixel contre u
 
 # A partir de combien de personnes le groupe 2 gagne?:
 
-Pour un groupe 2 avec 200 personnes:
+Pour un groupe 2 avec 100 personnes:
 <img width="176" alt="image" src="https://github.com/are-dynamic-2024-g5/Rplace/assets/159923584/611cc9d1-839e-40f0-8a39-df6ef586ab8d">
 
 Pour un groupe 2 avec 300 personnes:
