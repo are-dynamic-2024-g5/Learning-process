@@ -99,7 +99,7 @@ Pour un groupe 2 avec 200 personnes:
 <img width="152" alt="image" src="https://github.com/are-dynamic-2024-g5/Rplace/assets/159923584/bb2607b9-5f29-40fb-827a-2d8c6bfe84a6">
 
 Pour un groupe 2 avec 300 personnes:
-<img width="152" alt="image" src="https://github.com/are-dynamic-2024-g5/Rplace/assets/159923584/071a61b9-50d4-490c-835e-5bde9ad8db2d">
+<img width="151" alt="image" src="https://github.com/are-dynamic-2024-g5/Rplace/assets/159923584/60b93970-8321-4f67-9c0e-57553d54fcf2">
 
 Donc un groupe très bien organisé ne peut rien faire face a un groupe 3 fois plus nombreux.
 # Extention possibles:
