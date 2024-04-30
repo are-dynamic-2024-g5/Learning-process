@@ -96,7 +96,7 @@ Il n'est donc pas nécessaire d'avoir 90% chances de poser un bon pixel contre u
 # A partir de combien de personnes le groupe 2 gagne?:
 
 Pour un groupe 2 avec 200 personnes:
-<img width="152" alt="image" src="https://github.com/are-dynamic-2024-g5/Rplace/assets/159923584/bb2607b9-5f29-40fb-827a-2d8c6bfe84a6">
+<img width="176" alt="image" src="https://github.com/are-dynamic-2024-g5/Rplace/assets/159923584/611cc9d1-839e-40f0-8a39-df6ef586ab8d">
 
 Pour un groupe 2 avec 300 personnes:
 <img width="151" alt="image" src="https://github.com/are-dynamic-2024-g5/Rplace/assets/159923584/60b93970-8321-4f67-9c0e-57553d54fcf2">
